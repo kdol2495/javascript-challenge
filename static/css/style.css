@@ -56,7 +56,12 @@ body {
 .ufo-form {
   margin-top: 50px;
 }
-
+.aliendude {
+  position: relative;
+  height: 50%;
+  width: 30%;
+  color: white;
+}
 .filters .panel-body {
   padding: 0;
 }
@@ -105,7 +110,7 @@ select {
 }
 
 .hero h1 {
-  margin-top: 200px;
+  margin-top: 100px;
   font-size: 0.1rem;
   animation: title 1.2s forwards linear;
 }
