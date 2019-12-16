@@ -1,1 +1,2 @@
+This repository contains reports of UFO sightings. I have doubts about the validity of such sightings (though no doubts that aliens exist), and thus have termed these 'visions' rather than sightings. Perhaps these visions occurred due to drugs, dehydration, imagination among many potential reasons (including legitimate UFO sighting). Enjoy!
 # javascript-challenge
